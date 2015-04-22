@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{30080199-4073-1424-C90D-05E699043965}</ProjectGuid>
+	<ProjectGuid>{117A40EB-3264-2D7B-0B0B-0BB56CBAE03F}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\BallUp\Ball.cs" />
      <Compile Include="Assets\Goal.cs" />
+     <Compile Include="Assets\Metronome\Metronome.cs" />
      <Compile Include="Assets\Rotate\Rotate.cs" />
      <Compile Include="Assets\SinMotion\PowerMeter.cs" />
  <Reference Include="UnityEngine.UI">
